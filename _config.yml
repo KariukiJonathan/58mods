@@ -1,10 +1,10 @@
 title: "58Mods"
 email: wowthemesnet@gmail.com
 timezone: UTC
-baseurl: ""
+baseurl: "/58mods/"
 permalink: "/:title/"
-logo: "./assets/images/logo.png"
-favicon: "./assets/images/favicon.ico"
+logo: "/assets/images/logo.png"
+favicon: "/assets/images/favicon.ico"
 author: Sal
 paginate: 30
 disqus: "58Mods"
