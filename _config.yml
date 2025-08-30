@@ -1,7 +1,7 @@
 title: "58Mods"
 email: wowthemesnet@gmail.com
 timezone: UTC
-baseurl: "home/"
+baseurl: "/home/"
 permalink: "/:title/"
 logo: "/assets/images/logo.png"
 favicon: "/assets/images/favicon.ico"
