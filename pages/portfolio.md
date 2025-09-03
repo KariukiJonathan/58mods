@@ -54,6 +54,16 @@ image: assets/images/resume.png
 ---
 
 ## 🚀 Projects
+<section class="row">
+  {% for post in site.posts %}
+      {% if post.featured == true %}
+          <div class="col-md-4 mb-5">
+          {% include postbox.html %}
+          </div>
+      {% endif %}
+  {% endfor %}
+  </div>
+</section>
 
 **Amazon Go** *(AWS: Lambda, Managed Blockchain, SQS, RDS, Cognito)*  
 - Designed blockchain-based public transport payment system architecture.  
