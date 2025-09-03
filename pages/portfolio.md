@@ -54,6 +54,7 @@ image: assets/images/resume.png
 ---
 
 ## 🚀 Projects
+
 <section class="row">
   {% for post in site.posts %}
       {% if post.featured == true %}
@@ -62,6 +63,29 @@ image: assets/images/resume.png
           </div>
       {% endif %}
   {% endfor %}
+  </div>
+</section>
+
+<section class="row">
+  <div class="col-sm-8">
+    <div class="row">
+      {% for post in paginator.posts %}
+      {% unless post.featured == true %}
+      <div class="col-md-6 mb-5">
+        {% include postbox.html %}
+      </div>
+      {% endunless %}
+      {% endfor %}
+    </div>
+    <!-- Pagination -->
+    <div class="bottompagination">
+      <span class="navigation" role="navigation">
+          {% include pagination.html %}
+      </span>
+    </div>
+  </div>
+  <div class="col-sm-4">
+    {% include sidebar.html %}
   </div>
 </section>
 
