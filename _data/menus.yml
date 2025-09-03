@@ -3,13 +3,13 @@ topmenu:
   - title: Home
     url: ""
 
-  - title: About
+  - title: Solutions
     url: "about/"
 
-  - title: Contact
+  - title: Games
     url: "contact/"
 
-  - title: Get this theme
+  - title: Get a Quote
     url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/
     class: "ml-2 btn btn-dark text-white px-3"
     external: true
