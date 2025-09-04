@@ -2,15 +2,12 @@
 topmenu:
   - title: Home
     url: ""
-    class: "text-dark"
 
   - title: Solutions
     url: "solutions/"
-    class: "text-dark"
 
   - title: Games
     url: "games/"
-    class: "text-dark"
 
   - title: Get a Quote
     url: "contact/"
