@@ -34,4 +34,4 @@ footermenu:
   - title: Download
     url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/
     external: true
-     class: "text-dark"
+    class: "text-dark"
