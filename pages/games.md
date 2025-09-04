@@ -7,7 +7,7 @@ image: ../assets/images/screenshot.png
 
 <div class="game">
   <img
-    src="assets/images/1.png"
+    src="../assets/images/1.png"
     alt="Game 1 Screenshot"
     style="max-width: 300px; display: block; margin-bottom: 10px"
   />
