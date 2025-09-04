@@ -52,7 +52,7 @@ h4, .h4, h5, .h5 {
     font-weight:600 !important;
 }
 a {
-    color:#6c757d;
+    color:inherit;
     text-decoration:none;
     transition: all .4s;
     &:hover {
@@ -111,7 +111,7 @@ small, .small {
 	-webkit-transition : all 0.3s ease-out;
 	transition : all 0.3s ease-out;
     position:fixed;
-    background:#6c757d;
+    background:#fff;
 }
 .social-icon {
     display: inline-block !important;
