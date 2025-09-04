@@ -2,7 +2,7 @@
 layout: page
 title: Solutions
 permalink: "/solutions/"
-image: assets/images/screenshot.png
+image: ../assets/images/screenshot.png
 ---
 
 At 58Mods we can bring your dream to reality by building you a custom computer. Whether this is a personal gaming computer, a computer you would want for streaming, a computer for your organization to do complex tasks like visual effects, video editing or some kind of game development, 58Mods had got you covered.
