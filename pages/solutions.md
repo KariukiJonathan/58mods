@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Solutions
-permalink: "/solutions/"
+permalink: "solutions/"
 image: ../assets/images/screenshot.png
 ---
 

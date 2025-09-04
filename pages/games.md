@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Games by 58Mods
-permalink: "/games/"
+permalink: "games/"
 image: ../assets/images/screenshot.png
 ---
 
