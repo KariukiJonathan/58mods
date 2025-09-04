@@ -1,15 +1,11 @@
 ---
 layout: page
-title: Games
+title: Games by 58Mods
 permalink: "/games/"
 image: assets/images/screenshot.png
 ---
 
-58Mods has developed afew games that you can play.
-The theme is compatible with Github pages. This demo is created with Github Pages and hosted with Github.
-
 <section class="row">
-    <div>
         {% for post in site.posts %}
             {% if post.featured == true %}
                 <div class="col-md-4 mb-5">
