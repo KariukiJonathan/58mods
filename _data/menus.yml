@@ -12,7 +12,7 @@ topmenu:
     url: "games/"
     class: "text-dark"
 
-  - title: Get a Quote
+  - title: Contact Us
     url: "contact/"
     class: "ml-2 btn btn-dark text-white px-3"
     external: true
