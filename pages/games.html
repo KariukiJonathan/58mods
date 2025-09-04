@@ -5,13 +5,15 @@ permalink: "/games/"
 image: ../assets/images/screenshot.png
 ---
 
-<section class="row">
-        {% for post in site.posts %}
-            {% if post.featured == true %}
-                <div class="col-md-4 mb-5">
-                {% include postbox.html %}
-                </div>
-            {% endif %}
-        {% endfor %}
-  </div>
-</section>
+<div class="game">
+  <img
+    src="../assets/images/1.png"
+    alt="Game 1 Screenshot"
+    style="max-width: 300px; display: block; margin-bottom: 10px"
+  />
+  <h2>Game Title 1</h2>
+  <p>
+    This is a short description of the game. It explains the concept, genre, and
+    why it’s fun to play.
+  </p>
+</div>
