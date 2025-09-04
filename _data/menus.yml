@@ -13,7 +13,7 @@ topmenu:
     class: "text-dark"
 
   - title: Contact Us
-    url: "contact/"
+    url: "https://58mods.github.io/home/contact"
     class: "ml-2 btn btn-dark text-white px-3"
     external: true
 
