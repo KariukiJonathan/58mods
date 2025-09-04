@@ -21,13 +21,17 @@ topmenu:
 footermenu:
   - title: Home
     url: ""
+    class: "text-dark"
 
   - title: Privacy Policy
     url: "privacy-policy/"
+    class: "text-dark"
 
   - title: Contact
     url: "contact/"
+    class: "text-dark"
 
   - title: Download
     url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/
     external: true
+     class: "text-dark"
