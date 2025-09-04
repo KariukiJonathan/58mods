@@ -12,6 +12,6 @@ image: ../assets/images/screenshot.png
     style="max-width: 300px; display: block; margin-bottom: 10px"
   />
   <h2>Footy Rivals</h2>
-  <p>A trivia game that puts your footy knowledge to the test.</p>
-  <a href="#" class="text-white px-5 btn-lg">Check it Out</a>
+  A trivia game that puts your footy knowledge to the test.
+  [Check it Out](https://58mods.github.io/home/contact)
 </div>
