@@ -2,10 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8" />
-    <meta
-      name="viewport"
-      content="width=device-width, initial-scale=1, shrink-to-fit=no"
-    />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="icon" href="{{ site.baseurl }}/{{site.favicon}}" />
 
     <title>{{ page.title }} | {{site.title}}</title>
@@ -48,7 +45,11 @@
             href="{{site.baseurl}}/"
           >
             {% if site.logo %}
-            <img class="mr-2" src="{{site.baseurl}}/{{site.favicon}}" alt="logo" />
+            <img
+              class="mr-2"
+              src="{{site.baseurl}}/{{site.favicon}}"
+              alt="logo"
+            />
             {% else %}
             <span class="d-none d-md-inline-block">{{ site.title }}</span>
             {% endif %}
