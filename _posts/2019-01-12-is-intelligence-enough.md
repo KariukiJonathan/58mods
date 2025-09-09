@@ -1,19 +1,21 @@
 ---
 layout: post
-title: "Is Intelligence Enough"
+title: "What We Do"
 author: sal
 categories: [Jekyll, tutorial]
 image: assets/images/5.jpg
 ---
 
-Education must also train one for quick, resolute and effective thinking. To think incisively and to think for one's self is very difficult.
+At 58mods we build solutions for personal use or business purposes.
 
-> We are prone to let our mental life become invaded by legions of half truths, prejudices, and propaganda. At this point, I often wonder whether or not education is fulfilling its purpose. A great majority of the so-called educated people do not think logically and scientifically.
+> Have you ever wanted a custom gaming computer or a home or office server bt could not achieve you goal because of the lack of equipment in Kenya. I have always had a dream of doing visual effects but that is impossible when there are no graphics cards I can build a custom pc with. And that's where 58mods was born!
 
-Even the press, the classroom, the platform, and the pulpit in many instances do not give us objective and unbiased truths. To save man from the morass of propaganda, in my opinion, is one of the chief aims of education. Education must enable one to sift and weigh evidence, to discern the true from the false, the real from the unreal, and the facts from the fiction.
+At 58mods we build solutions like custom pcs for all purposes all the way from company servers to gaming and video editing workstations. The way we work is that you would contact us and specify us for what solution exactly you would like built for you. If you have the exacts specs of the system you would want you can mention them but if you don't know where you can start you just need to describe what you would need the solution for. You can be as detailed as you would like.
 
-The function of education, therefore, is to teach one to think intensively and to think critically. But education which stops with efficiency may prove the greatest menace to society. The most dangerous criminal may be the man gifted with reason, but with no morals.
+58mods will then reach out to you with a quote of the system you would like built as well as followup questions and suggestions. You will then need to pay half of the quoted price to get all the components and the rest can be paid after completion of the system.
 
-The late Eugene Talmadge, in my opinion, possessed one of the better minds of Georgia, or even America. Moreover, he wore the Phi Beta Kappa key. By all measuring rods, Mr. Talmadge could think critically and intensively; yet he contends that I am an inferior being. Are those the types of men we call educated?
+At 58mods customer satisfaction is our priority. We will always put the customer first and ensure to provide our services as fast and as well as possible to the liking of the customer. Additionally we do maintenance of old systems and hardware upgrades to boost performance. Just reach out to us here:
+[Contact](https://58mods.github.io/home/contact)
 
-We must remember that intelligence is not enough. Intelligence plus character--that is the goal of true education. The complete education gives one not only power of concentration, but worthy objectives upon which to concentrate. The broad education will, therefore, transmit to one not only the accumulated knowledge of the race but also the accumulated experience of social living.
+Check out all solutions we offer here:
+[Contact](https://58mods.github.io/home/solutions)
